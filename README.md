@@ -6,7 +6,7 @@
 ## 🔧 使用技術
 - React（Create React App）
 - TypeScript
-- CSS Modules
+- CSS
 
 ## 📝 主な機能
 - タスクの追加・削除・編集
