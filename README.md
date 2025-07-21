@@ -19,7 +19,7 @@
 - 今後は、より自分のアイデアを反映させたアプリの自作に挑戦していきます。
 
 ## 🚀 デモ
-[▶️ アプリを試す]([https://yourusername.github.io/todo-app/](https://mitsutakaninomiya.github.io/todo-ts/))
+[▶️ アプリを試す](https://mitsutakaninomiya.github.io/todo-ts/)
 
 
 
